@@ -12,3 +12,13 @@ Security aspects are taken severely during designing and implementation phases a
 - Vanilla JavaScript
 - Bcrypt (Password Hashing => Spring Framework)
 - MySQL
+
+## Software design pattern
+
+- Model View Controller (MVC)
+
+## Programming paradigm
+- Object Oriented Programming Approach (OOP) 
+
+All 4 approaches of OOP, Encapsulation, Inheritance, Polymorphism, Abstraction </br> 
+are taken into account on the project development.
