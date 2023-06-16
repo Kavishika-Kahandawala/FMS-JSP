@@ -1,0 +1,463 @@
+16-Jun-2023 11:25:28.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.9
+16-Jun-2023 11:25:28.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2023 14:30:05 UTC
+16-Jun-2023 11:25:28.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.9.0
+16-Jun-2023 11:25:28.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+16-Jun-2023 11:25:28.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+16-Jun-2023 11:25:28.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+16-Jun-2023 11:25:28.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Installed Apps\Java
+16-Jun-2023 11:25:28.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.1+10-21
+16-Jun-2023 11:25:28.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Jun-2023 11:25:28.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:25:28.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:25:28.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\logging.properties
+16-Jun-2023 11:25:28.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Jun-2023 11:25:28.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Jun-2023 11:25:28.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Jun-2023 11:25:28.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+16-Jun-2023 11:25:28.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+16-Jun-2023 11:25:28.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+16-Jun-2023 11:25:28.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+16-Jun-2023 11:25:28.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Jun-2023 11:25:28.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:25:28.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:25:28.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\temp
+16-Jun-2023 11:25:28.719 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.3] using APR version [1.7.2].
+16-Jun-2023 11:25:28.768 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.8 7 Feb 2023]
+16-Jun-2023 11:25:29.049 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:25:29.110 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [701] milliseconds
+16-Jun-2023 11:25:29.209 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Jun-2023 11:25:29.209 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.9]
+16-Jun-2023 11:25:29.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs]
+16-Jun-2023 11:25:29.778 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs] has finished in [557] ms
+16-Jun-2023 11:25:29.778 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples]
+16-Jun-2023 11:25:31.642 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples] has finished in [1,864] ms
+16-Jun-2023 11:25:31.642 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager]
+16-Jun-2023 11:25:31.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager] has finished in [111] ms
+16-Jun-2023 11:25:31.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager]
+16-Jun-2023 11:25:31.824 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager] has finished in [71] ms
+16-Jun-2023 11:25:31.824 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT]
+16-Jun-2023 11:25:31.886 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT] has finished in [61] ms
+16-Jun-2023 11:25:31.889 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:25:31.965 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2852] milliseconds
+16-Jun-2023 11:25:36.593 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:36.744 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:36.891 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:37.028 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:37.174 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:37.319 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:37.461 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:37.611 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:37.770 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:45.521 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:45.524 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:25:56.171 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:26:06.903 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:26:07.609 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:26:07.612 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:28.419 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:28.966 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:29.335 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:29.474 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:30.243 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:30.246 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:36.551 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:37.007 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:37.168 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:37.310 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:39.659 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:40.999 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:41.002 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:46.667 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:47.293 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:47.442 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:47.579 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:47.709 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:48.757 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:27:48.761 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:28:08.215 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+16-Jun-2023 11:28:08.215 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:28:08.227 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+16-Jun-2023 11:28:08.321 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:28:08.330 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:30:18.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.9
+16-Jun-2023 11:30:18.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2023 14:30:05 UTC
+16-Jun-2023 11:30:18.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.9.0
+16-Jun-2023 11:30:18.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+16-Jun-2023 11:30:18.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+16-Jun-2023 11:30:18.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+16-Jun-2023 11:30:18.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Installed Apps\Java
+16-Jun-2023 11:30:18.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.1+10-21
+16-Jun-2023 11:30:18.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Jun-2023 11:30:18.687 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:30:18.687 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:30:18.701 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\logging.properties
+16-Jun-2023 11:30:18.701 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Jun-2023 11:30:18.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Jun-2023 11:30:18.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Jun-2023 11:30:18.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+16-Jun-2023 11:30:18.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+16-Jun-2023 11:30:18.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+16-Jun-2023 11:30:18.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+16-Jun-2023 11:30:18.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Jun-2023 11:30:18.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:30:18.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:30:18.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\temp
+16-Jun-2023 11:30:18.707 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.3] using APR version [1.7.2].
+16-Jun-2023 11:30:18.714 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.8 7 Feb 2023]
+16-Jun-2023 11:30:19.673 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:30:19.718 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1422] milliseconds
+16-Jun-2023 11:30:19.780 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Jun-2023 11:30:19.780 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.9]
+16-Jun-2023 11:30:19.794 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs]
+16-Jun-2023 11:30:20.486 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs] has finished in [692] ms
+16-Jun-2023 11:30:20.487 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples]
+16-Jun-2023 11:30:20.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples] has finished in [431] ms
+16-Jun-2023 11:30:20.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager]
+16-Jun-2023 11:30:20.953 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager] has finished in [35] ms
+16-Jun-2023 11:30:20.953 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager]
+16-Jun-2023 11:30:21.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager] has finished in [72] ms
+16-Jun-2023 11:30:21.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT]
+16-Jun-2023 11:30:21.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT] has finished in [21] ms
+16-Jun-2023 11:30:21.051 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:30:21.101 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1380] milliseconds
+16-Jun-2023 11:30:25.494 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:30:26.242 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:30:26.245 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:30:33.052 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:30:33.057 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:30:59.855 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:00.442 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:00.585 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:00.853 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:00.986 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:01.139 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:01.266 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:01.475 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:01.621 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:02.000 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:02.004 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:09.451 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:09.455 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+16-Jun-2023 11:31:21.380 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+16-Jun-2023 11:31:21.381 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:31:21.391 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+16-Jun-2023 11:31:21.436 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:31:21.456 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:32:28.583 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.9
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2023 14:30:05 UTC
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.9.0
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Installed Apps\Java
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.1+10-21
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Jun-2023 11:32:28.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:32:28.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:32:28.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\logging.properties
+16-Jun-2023 11:32:28.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Jun-2023 11:32:28.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Jun-2023 11:32:28.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Jun-2023 11:32:28.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+16-Jun-2023 11:32:28.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+16-Jun-2023 11:32:28.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+16-Jun-2023 11:32:28.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+16-Jun-2023 11:32:28.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Jun-2023 11:32:28.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:32:28.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:32:28.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\temp
+16-Jun-2023 11:32:28.602 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.3] using APR version [1.7.2].
+16-Jun-2023 11:32:28.607 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.8 7 Feb 2023]
+16-Jun-2023 11:32:28.962 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:32:29.006 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [735] milliseconds
+16-Jun-2023 11:32:29.070 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Jun-2023 11:32:29.070 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.9]
+16-Jun-2023 11:32:29.088 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs]
+16-Jun-2023 11:32:29.430 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs] has finished in [342] ms
+16-Jun-2023 11:32:29.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples]
+16-Jun-2023 11:32:29.817 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples] has finished in [386] ms
+16-Jun-2023 11:32:29.817 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager]
+16-Jun-2023 11:32:29.883 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager] has finished in [66] ms
+16-Jun-2023 11:32:29.883 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager]
+16-Jun-2023 11:32:29.924 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager] has finished in [41] ms
+16-Jun-2023 11:32:29.924 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT]
+16-Jun-2023 11:32:29.946 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT] has finished in [22] ms
+16-Jun-2023 11:32:29.951 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:32:30.001 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [992] milliseconds
+16-Jun-2023 11:32:32.000 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml]
+16-Jun-2023 11:32:32.002 WARNING [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/FMS] in deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml] has been ignored
+16-Jun-2023 11:32:33.856 WARNING [http-nio-8080-exec-8] java.util.ArrayList.forEach Name = FMS Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+16-Jun-2023 11:32:33.856 WARNING [http-nio-8080-exec-8] java.util.ArrayList.forEach Name = FMS Property removeAbandoned is not used in DBCP2, use one or both of removeAbandonedOnBorrow or removeAbandonedOnMaintenance instead. Both have default value set to false. You have set value of "true" for "removeAbandoned" property, which is being ignored.
+16-Jun-2023 11:32:33.856 WARNING [http-nio-8080-exec-8] java.util.ArrayList.forEach Name = FMS Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is PT-0.001S. You have set value of "10000" for "maxWait" property, which is being ignored.
+16-Jun-2023 11:32:34.095 INFO [http-nio-8080-exec-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Jun-2023 11:32:34.193 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml] has finished in [2,193] ms
+16-Jun-2023 11:32:34.200 INFO [http-nio-8080-exec-9] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/FMS]] after start() had already been called. The second call will be ignored.
+16-Jun-2023 11:32:45.027 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+16-Jun-2023 11:32:45.027 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:32:45.038 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+16-Jun-2023 11:32:45.074 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:32:45.085 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:36:34.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.9
+16-Jun-2023 11:36:34.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2023 14:30:05 UTC
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.9.0
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Installed Apps\Java
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.1+10-21
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:36:34.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:36:34.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\logging.properties
+16-Jun-2023 11:36:34.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:36:34.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\temp
+16-Jun-2023 11:36:34.353 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.3] using APR version [1.7.2].
+16-Jun-2023 11:36:34.358 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.8 7 Feb 2023]
+16-Jun-2023 11:36:34.693 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:36:34.728 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [628] milliseconds
+16-Jun-2023 11:36:34.801 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Jun-2023 11:36:34.802 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.9]
+16-Jun-2023 11:36:34.812 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml]
+16-Jun-2023 11:36:34.839 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/FMS] in deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml] has been ignored
+16-Jun-2023 11:36:36.839 WARNING [main] java.util.ArrayList.forEach Name = FMS Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+16-Jun-2023 11:36:36.839 WARNING [main] java.util.ArrayList.forEach Name = FMS Property removeAbandoned is not used in DBCP2, use one or both of removeAbandonedOnBorrow or removeAbandonedOnMaintenance instead. Both have default value set to false. You have set value of "true" for "removeAbandoned" property, which is being ignored.
+16-Jun-2023 11:36:36.839 WARNING [main] java.util.ArrayList.forEach Name = FMS Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is PT-0.001S. You have set value of "10000" for "maxWait" property, which is being ignored.
+16-Jun-2023 11:36:37.130 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Jun-2023 11:36:37.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml] has finished in [2,436] ms
+16-Jun-2023 11:36:37.250 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs]
+16-Jun-2023 11:36:37.290 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs] has finished in [39] ms
+16-Jun-2023 11:36:37.290 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples]
+16-Jun-2023 11:36:37.564 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples] has finished in [273] ms
+16-Jun-2023 11:36:37.564 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager]
+16-Jun-2023 11:36:37.610 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager] has finished in [46] ms
+16-Jun-2023 11:36:37.610 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager]
+16-Jun-2023 11:36:37.662 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager] has finished in [52] ms
+16-Jun-2023 11:36:37.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT]
+16-Jun-2023 11:36:37.684 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT] has finished in [22] ms
+16-Jun-2023 11:36:37.695 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:36:37.770 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3040] milliseconds
+16-Jun-2023 11:36:50.712 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml]
+16-Jun-2023 11:36:50.714 WARNING [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/mavenproject1] in deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml] has been ignored
+16-Jun-2023 11:36:50.804 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml] has finished in [91] ms
+16-Jun-2023 11:36:50.809 INFO [http-nio-8080-exec-5] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/mavenproject1]] after start() had already been called. The second call will be ignored.
+16-Jun-2023 11:37:18.246 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/mavenproject1]
+16-Jun-2023 11:37:18.285 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml]
+16-Jun-2023 11:37:18.287 WARNING [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/mavenproject1] in deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml] has been ignored
+16-Jun-2023 11:37:18.309 SEVERE [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:686)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:713)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:641)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1927)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:534)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1705)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:305)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1102)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@21bcaef]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4567)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4700)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		... 24 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [D:\Programming Workplace\Projects\Netbeans Projects\mavenproject1\target\mavenproject1-1.0-SNAPSHOT] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 28 more
+16-Jun-2023 11:37:18.557 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml] has finished in [273] ms
+16-Jun-2023 11:37:18.699 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+16-Jun-2023 11:37:18.700 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:37:18.709 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+16-Jun-2023 11:37:18.731 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:37:18.744 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:40:44.466 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.9
+16-Jun-2023 11:40:44.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2023 14:30:05 UTC
+16-Jun-2023 11:40:44.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.9.0
+16-Jun-2023 11:40:44.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+16-Jun-2023 11:40:44.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+16-Jun-2023 11:40:44.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+16-Jun-2023 11:40:44.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Installed Apps\Java
+16-Jun-2023 11:40:44.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.1+10-21
+16-Jun-2023 11:40:44.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Jun-2023 11:40:44.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:40:44.473 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:40:44.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\logging.properties
+16-Jun-2023 11:40:44.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Jun-2023 11:40:44.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Jun-2023 11:40:44.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Jun-2023 11:40:44.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+16-Jun-2023 11:40:44.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+16-Jun-2023 11:40:44.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+16-Jun-2023 11:40:44.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+16-Jun-2023 11:40:44.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Jun-2023 11:40:44.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:40:44.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9
+16-Jun-2023 11:40:44.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\temp
+16-Jun-2023 11:40:44.498 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.3] using APR version [1.7.2].
+16-Jun-2023 11:40:44.503 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.8 7 Feb 2023]
+16-Jun-2023 11:40:44.880 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:40:44.929 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [676] milliseconds
+16-Jun-2023 11:40:45.014 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Jun-2023 11:40:45.015 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.9]
+16-Jun-2023 11:40:45.026 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml]
+16-Jun-2023 11:40:45.052 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/FMS] in deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml] has been ignored
+16-Jun-2023 11:40:45.107 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:686)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:713)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:641)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1927)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:534)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1656)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:898)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:846)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:871)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:241)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:910)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@7d7758be]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4567)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4700)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Horizon\Documents\NetBeansProjects\FMS\target\FMS-1.0-SNAPSHOT] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 39 more
+16-Jun-2023 11:40:45.142 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml] has finished in [115] ms
+16-Jun-2023 11:40:45.144 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml]
+16-Jun-2023 11:40:45.148 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/mavenproject1] in deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml] has been ignored
+16-Jun-2023 11:40:45.153 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:686)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:713)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:641)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1927)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:534)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1656)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:898)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:846)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:871)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:241)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:910)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@22f59fa]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4567)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4700)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [D:\Programming Workplace\Projects\Netbeans Projects\mavenproject1\target\mavenproject1-1.0-SNAPSHOT] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 39 more
+16-Jun-2023 11:40:45.269 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\mavenproject1.xml] has finished in [125] ms
+16-Jun-2023 11:40:45.272 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs]
+16-Jun-2023 11:40:45.849 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\docs] has finished in [577] ms
+16-Jun-2023 11:40:45.849 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples]
+16-Jun-2023 11:40:46.398 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\examples] has finished in [549] ms
+16-Jun-2023 11:40:46.399 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager]
+16-Jun-2023 11:40:46.453 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\host-manager] has finished in [54] ms
+16-Jun-2023 11:40:46.454 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager]
+16-Jun-2023 11:40:46.640 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\manager] has finished in [187] ms
+16-Jun-2023 11:40:46.641 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT]
+16-Jun-2023 11:40:46.698 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\webapps\ROOT] has finished in [58] ms
+16-Jun-2023 11:40:46.701 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:40:46.766 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1835] milliseconds
+16-Jun-2023 11:40:48.734 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/FMS]
+16-Jun-2023 11:40:48.761 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml]
+16-Jun-2023 11:40:48.763 WARNING [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/FMS] in deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml] has been ignored
+16-Jun-2023 11:40:50.579 WARNING [http-nio-8080-exec-1] java.util.ArrayList.forEach Name = FMS Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+16-Jun-2023 11:40:50.579 WARNING [http-nio-8080-exec-1] java.util.ArrayList.forEach Name = FMS Property removeAbandoned is not used in DBCP2, use one or both of removeAbandonedOnBorrow or removeAbandonedOnMaintenance instead. Both have default value set to false. You have set value of "true" for "removeAbandoned" property, which is being ignored.
+16-Jun-2023 11:40:50.579 WARNING [http-nio-8080-exec-1] java.util.ArrayList.forEach Name = FMS Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is PT-0.001S. You have set value of "10000" for "maxWait" property, which is being ignored.
+16-Jun-2023 11:40:50.891 INFO [http-nio-8080-exec-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Jun-2023 11:40:50.940 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Installed Apps\Portable\Apache Software Foundation\apache-tomcat-10.1.9-windows-x64\apache-tomcat-10.1.9\conf\Catalina\localhost\FMS.xml] has finished in [2,179] ms
+16-Jun-2023 11:40:50.944 INFO [http-nio-8080-exec-6] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/FMS]] after start() had already been called. The second call will be ignored.
+16-Jun-2023 11:41:59.328 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+16-Jun-2023 11:41:59.328 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:41:59.339 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+16-Jun-2023 11:41:59.360 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+16-Jun-2023 11:41:59.364 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
