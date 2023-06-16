@@ -13,6 +13,9 @@ Security aspects are taken severely during designing and implementation phases a
 - Bcrypt (Password Hashing => Spring Framework)
 - MySQL
 
+## build automation tool
+- Maven For Java
+
 ## Software design pattern
 
 - Model View Controller (MVC)
